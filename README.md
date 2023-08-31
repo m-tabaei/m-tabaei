@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am very interested in programming, particularly frontend development. In this field, I have three years of experience in IT and frontend development (Basic).<br>My main reason for choosing to become a frontend developer lies in my passion for creativity and innovation. When I see the result of a beautiful website created by inputting<br>code into the computer, it brings me joy to work on it. Programming on the computer<br>makes me lose track of time. I would love to share my knowledge with your company.<br>I possess extensive expertise in the following areas:<br>Fundamentals of: Html, CSS, JavaScript (ES6), SASS, Responsive Design<br>Reactjs: React-Router-Dom, Style-Components<br>Version control using: Git, Github, Gitlab<br>Additional knowledge in: Nextjs, Redux, REST API, Bootstrap, Axios, Tailwind, Swiperjs,OwlCarousel, Photoshop, and SEO.</p>
+<p align="left">I am very interested in programming, particularly frontend development. In this field, I have three years of experience in IT and frontend development (Basic).<br>My main reason for choosing to become a frontend developer lies in my passion for creativity and innovation. When I see the result of a beautiful website created by inputting<br>code into the computer, it brings me joy to work on it. Programming on the computer<br>makes me lose track of time. I would love to share my knowledge with your company.<br>I possess extensive expertise in the following areas:<br>Fundamentals of: Html, CSS, JavaScript (ES6), SASS, Responsive Design<br>Reactjs: React-Router-Dom, Style-Components<br>Version control using: Git, Github, Gitlab<br>Additional knowledge in: Nextjs, Redux, REST API, Bootstrap, Axios, Ajax, Tailwind, Swiperjs,OwlCarousel, Photoshop, and SEO.</p>
 
 ###
 
