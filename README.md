@@ -51,6 +51,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="+989123327370" target="_blank">
+
+    <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=m-tabaei&label=Profile%20Views&color=1&icon=0&pretty=false" />
+</a>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
